@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.agents/
+.claude/
+.cursor/
+.devin/
+.qodo/
+.postman/
